@@ -1,0 +1,19 @@
+{
+  "name": "datatype_getprime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "datatype_getPrime"
+  },
+  "keywords": [
+    "dataType",
+    "getPrime"
+  ],
+  "author": "Mayowa Makinde",
+  "license": "ISC"
+}
